@@ -1,8 +1,6 @@
 import java.util.*;
 .,.,.
-  ,.,.
-  ,.,.
-  ,.,.,.
+
 
 public class MethodsTwo{
   public static void main(String[] args){
